@@ -10,5 +10,5 @@ SET c == Var3
    AND IF (b >= a) AND (b >= c) THEN
         DISPLAY "b is maximum"
     ELSE
-        DISPLAY "a is maximum"
+        DISPLAY "c is maximum"
 END
