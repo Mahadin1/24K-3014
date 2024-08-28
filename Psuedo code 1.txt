@@ -1,0 +1,14 @@
+Start
+INPUT Var1, Var2, Var3
+
+SET a == Var1
+SET b == Var2
+SET c == Var3
+
+    IF (a >= b) AND (a >= c) THEN
+        DISPLAY "a is maximum"
+   AND IF (b >= a) AND (b >= c) THEN
+        DISPLAY "b is maximum"
+    ELSE
+        DISPLAY "a is maximum"
+END
