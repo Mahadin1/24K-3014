@@ -1,0 +1,17 @@
+Ask the user to input a "n"
+
+SET 1 = Jan
+SET 2 = Feb
+SET 3 = Mar
+SET 4 = Apr
+SET 5 = May
+SET 6 = Jun
+SET 7 = Jul
+SET 8 = Aug
+SET 9 = Sep
+SET 10 = Oct
+SET 11 = Nov
+SET 12 = Dec
+
+IF  1 =< n =< 12 than DISPLAY corresping Display Corresponding Month
+Else DISPLAY  "Error"
