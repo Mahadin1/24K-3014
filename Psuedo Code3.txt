@@ -1,11 +1,11 @@
 START
-INPUT var1, nvar2
+INPUT var1, var2
 INPUT operator = (+ or -)
 
 SET result = 0
 
 IF operator = "+" THEN
-    SET result = num1 + num2
+    SET result = var1 + var2
 ELSE
     SET result = var1 - var2
 
