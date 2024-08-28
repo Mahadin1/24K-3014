@@ -1,0 +1,7 @@
+Ask the user to enter : num1 , num2
+Ask the use to enter : operator(+,-,*,/,%)
+
+Calculate result = [num1 (operator) num2]
+
+DISPLAY result
+
