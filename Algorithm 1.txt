@@ -1,0 +1,13 @@
+Ask the user For n and Nth number
+
+CALCULATE divisor = n/Nth
+CALCULATE odd_even = n/2
+
+IF "divisor" is in Non-decimal than Set "divisor" = Nth is a divisor of n
+IF "divisor" is in decimal than Set "divisor" = Nth is not a divisor of n 
+
+IF "odd_even" is in Non-decimal than SET "odd_even" = Even
+IF "odd_even" is in decimal than SET "odd_even" = Odd  
+
+Display "Divisor"
+Display "odd_even"
