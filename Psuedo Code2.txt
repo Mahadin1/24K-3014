@@ -1,0 +1,10 @@
+START
+INPUT var1, var2, var3
+
+SET sum = 0
+
+SET sum = (-var1-var2-ver3)/-1
+
+DISPLAY/PRINT "sum"
+
+END
