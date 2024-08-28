@@ -1,0 +1,14 @@
+START
+INPUT var1, nvar2
+INPUT operator = (+ or -)
+
+SET result = 0
+
+IF operator = "+" THEN
+    SET result = num1 + num2
+ELSE
+    SET result = var1 - var2
+
+PRINT result
+
+END
